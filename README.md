@@ -50,3 +50,6 @@ sudo apt-get install numix-gtk-theme numix-icon-theme-circle
 
 ## Bleachbit:
 `sudo apt install bleachbit`
+
+## Fix Network Error:
+[network-change](https://itsfoss.com/network-change-detected/)
