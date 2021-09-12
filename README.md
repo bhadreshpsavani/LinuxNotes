@@ -48,8 +48,7 @@ sudo apt-get install numix-gtk-theme numix-icon-theme-circle
 ## Synaptic Package Manager:
 `sudo apt install synaptic`
 
-## [Bleachbit](https://github.com/balena-io/etcher?d_id=38868a73-c382-438c-af64-734b91a910e4R#debian-and-ubuntu-based-package-repository-gnulinux-x86x64
-):
+## Bleachbit:
 `sudo apt install bleachbit`
 
 ## Fix Network Error:
