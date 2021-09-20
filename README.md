@@ -1,9 +1,9 @@
 # LinuxNotes
 
-Edit File: [nano Editor](https://www.nano-editor.org/)
-Create File: [touch](http://www.linfo.org/touch.html)
-Get Data from File: [cat](http://www.linfo.org/cat.html)
-Linux [Commands](http://www.linfo.org/command_index.html)
+* Edit File: [nano Editor](https://www.nano-editor.org/)
+* Create File: [touch](http://www.linfo.org/touch.html)
+* Get Data from File: [cat](http://www.linfo.org/cat.html)
+* Linux [Commands](http://www.linfo.org/command_index.html)
 
 ## Update & Upgrade:
 ```
